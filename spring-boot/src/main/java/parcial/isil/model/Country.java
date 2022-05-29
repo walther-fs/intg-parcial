@@ -1,6 +1,5 @@
 package parcial.isil.model;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -18,6 +17,6 @@ public class Country {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer countryId;
     private String name;
-    @OneToMany(mappedBy = "city")
+    @OneToMany(mappedBy = "country")
     private List<City> cities;
 }

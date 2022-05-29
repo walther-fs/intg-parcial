@@ -11,6 +11,7 @@ import javax.persistence.*;
 @Data
 @Entity
 public class City {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer cityId;
