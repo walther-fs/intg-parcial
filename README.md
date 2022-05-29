@@ -1,6 +1,6 @@
 <h1>INTEGRACIÓN DE APLICACIONES</h1>
 <h2>EXAMEN PARCIAL</h2>
 <h3>Integrantes - Grupo 4</h3>
-<li>Johan Muñoz</li>
-<li>Walther Flores</li>
-<li>Kevin Conde</li>
+<li>JOHAN ELBER MUÑOZ RIOS</li>
+<li>WALTHER ALDAIR FLORES SOTOMAYOR</li>
+<li>KEVIN JOHAN CONDE VILLANUEVA</li>
